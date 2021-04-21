@@ -1,2 +1,4 @@
 # Python-Data-Analysis
-Using Python and Panda frameworks to analyze an office supply company and offer recommendations 
+Using Python and Panda frameworks to analyze an office supply company and offer recommendations based off the data that was provided, visuals were created using matplotlib and seaborn framework to allow a better understanding of the data.
+The goal of the project was to provide potentiel strategies that will increase sales for the client . The clients goal was to increase sales by 20 % , increase profits by 10 % , increase corporate sales by 10 % , and increase corporate accounts by 50 % over the next 3 years.
+With the use of Pandas' framework we were able to wrangle and analyze the data from the past 4 years in order to reach the goals. From our code, we made connections and visualized it in a simplified manner for our client to view. Our consultation with Office Solution will help them increase their profit and give them guidance to steer their company in the correct direction. 
